@@ -53,8 +53,8 @@ Step8: Display the result.
 
 ## PROGRAM:
 
-### NAME : ASHWIN KUMAR S
-### REG.N0 : 212222240013
+### NAME : PRADEEP S
+### REG.N0 : 212222100034
 
 ## I) Perform ROI from an image
 
@@ -206,4 +206,4 @@ plt.imshow(cv2.cvtColor(img,cv2.COLOR_BGR2RGB))
 
 ## RESULT:
 Thus, The python program using OpenCV to do the image manipulations is executed successfully.
-```
+
